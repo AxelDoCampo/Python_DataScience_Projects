@@ -1,1 +1,1 @@
-# Diferentes proyectos en python/data science que fui realizando
+# Diferentes proyectos en Python/Data Science que fui realizando.
